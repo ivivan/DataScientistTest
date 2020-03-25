@@ -1,7 +1,9 @@
 # DataScientistTest
 Data Scientist Interview Test
 
-This is a data scientist interivew test I did few days ago.
+Here includes all the data scientist interivew tests I did few days ago.
+
+What a boring world.
 
 Finally find the purpose for jupyter notebook: job interivew
 
